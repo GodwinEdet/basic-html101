@@ -1,0 +1,8 @@
+.navigation-bar {
+    justify-content: space-between;
+    display: flex;
+}
+
+.hero-section {
+    width: 100%;
+}
